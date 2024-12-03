@@ -1,0 +1,19 @@
+# Java Backend için
+target/
+*.class
+*.jar
+.classpath
+.project
+.settings/
+mvn*
+
+# Flutter için
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub/
+.dart_tool/
+*.iml
+.idea/
